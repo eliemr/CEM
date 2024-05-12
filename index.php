@@ -898,21 +898,21 @@ At CEM, we envision a dynamic shift toward positive environmental impact. Rooted
         <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
         
-		<script src="src/easing/easing.min.js"></script>
-        <script src="src/menuspy/menuspy.min.js"></script>
-        <script src="src/waypoints/waypoints.min.js"></script>
-        <script src="src/counterup/counterup.min.js"></script>
+		<script src="./src/easing/easing.min.js"></script>
+        <script src="./src/menuspy/menuspy.min.js"></script>
+        <script src="./src/waypoints/waypoints.min.js"></script>
+        <script src="./src/counterup/counterup.min.js"></script>
         <script src="./src/owlcarousel/owl.carousel.min.js"></script>
-        <script src="src/isotope/isotope.pkgd.min.js"></script>
-        <script src="src/lightbox/js/lightbox.min.js"></script>
+        <script src="./src/isotope/isotope.pkgd.min.js"></script>
+        <script src="./src/lightbox/js/lightbox.min.js"></script>
 			
 		
 		
-		<script src="src/swiffy-slider-extensions.js"></script>
-		<script src="src/swiffy-slider.esm.js"></script>
-		<script src="src/swiffy-slider.js"></script>
+		<script src="./src/swiffy-slider-extensions.js"></script>
+		<script src="./src/swiffy-slider.esm.js"></script>
+		<script src="./src/swiffy-slider.js"></script>
         <!-- Template Javascript -->
-        <script src="src/js/main.js"></script>
+        <script src="./src/js/main.js"></script>
 		
     </body>
 </html>
